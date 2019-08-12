@@ -38,6 +38,9 @@ mkdir -p ./social/speaking-up
 mkdir -p ./technical/climbing/footing
 
 # yoga
+mkdir -p ./technical/yoga/hatha
+mkdir -p ./technical/yoga/vinyasa
+mkdir -p ./technical/yoga/yin
 
 # science
 
