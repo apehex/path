@@ -12,8 +12,19 @@ mkdir -p ./physical/sensations/supporting
 mkdir -p ./physical/sensations/yielding
 
 # mental skills
-mkdir ./mental
-mkdir ./mental/focus
+mkdir -p ./mental/awareness
+mkdir -p ./mental/behavior-modification
+mkdir -p ./mental/contentment
+mkdir -p ./mental/controlling-your-state
+mkdir -p ./mental/enthusiasm
+mkdir -p ./mental/fear-management
+mkdir -p ./mental/flowing
+mkdir -p ./mental/focusing # dedicated space, taking care of distractions
+mkdir -p ./mental/mind-programming
+mkdir -p ./mental/positivity
+mkdir -p ./mental/self-concept
+mkdir -p ./mental/trial-and-error
+mkdir -p ./mental/willpower
 
 # social
 mkdir ./social
