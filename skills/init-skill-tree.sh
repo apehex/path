@@ -6,6 +6,10 @@ mkdir -p ./physical/strength/legs
 mkdir -p ./physical/breath/synchronization
 mkdir -p ./physical/stamina/
 mkdir -p ./physical/flexibility/
+mkdir -p ./physical/sensations/aligning
+mkdir -p ./physical/sensations/centering
+mkdir -p ./physical/sensations/supporting
+mkdir -p ./physical/sensations/yielding
 
 # mental skills
 mkdir ./mental
