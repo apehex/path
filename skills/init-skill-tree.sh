@@ -42,7 +42,13 @@ mkdir -p ./technical/yoga/hatha
 mkdir -p ./technical/yoga/vinyasa
 mkdir -p ./technical/yoga/yin
 
-# science
+# maths
+mkdir -p ./technical/maths/differential-equations
+mkdir -p ./technical/maths/linear-algebra
+mkdir -p ./technical/maths/modeling/interpolation
+mkdir -p ./technical/maths/modeling/regression
+mkdir -p ./technical/maths/statistics
+mkdir -p ./technical/maths/trigonometrics
 
 # pentesting
 mkdir -p ./technical/computer-science/security/blue
