@@ -27,10 +27,12 @@ mkdir -p ./mental/trial-and-error
 mkdir -p ./mental/willpower
 
 # social
-mkdir ./social
-
-# technical
-mkdir ./technical
+mkdir -p ./social/entertaining # telling a joke, a story, singing, dancing
+mkdir -p ./social/introducing
+mkdir -p ./social/planning # risks, problems, inform, alternatives, goal-setting
+mkdir -p ./social/resting # booking time, 
+mkdir -p ./social/seducing # 
+mkdir -p ./social/speaking-up
 
 # climbing
 mkdir -p ./technical/climbing/footing
