@@ -1,3 +1,10 @@
 #!/bin/bash
 
-git checkout -b mycroft
+# SKILL JOKE #
+##############
+
+# SKILL MANUAL #
+################
+
+# NOISE & REVERBERATION CANCELING #
+###################################

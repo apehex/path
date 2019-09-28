@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git checkout -b coursera-machine-learning
-
 # MACHINE LEARNING #
 ####################
 

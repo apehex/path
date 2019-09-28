@@ -1,8 +1,5 @@
 #!/bin/bash
 
-git checkout master
-git checkout -b work
-
 # TRAJECT #
 ###########
 
@@ -24,4 +21,8 @@ git checkout -b work
 # WEB DEV #
 ###########
 
+git checkout master
+git checkout -b web-development
 /bin/bash ./2019-01_2019-12_web-development.sh
+git checkout master
+git merge --no-ff web-development

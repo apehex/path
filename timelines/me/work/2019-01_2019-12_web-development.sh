@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git checkout -b web-development
-
 # JEKYLL THEME STELLAR #
 ########################
 
