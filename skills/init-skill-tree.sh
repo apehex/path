@@ -42,14 +42,16 @@ touch ./mental/fear-management/planning
 
 mkdir -p ./mental/flowing/
 
-mkdir -p ./mental/focusing/
- # dedicated space, taking care of distractions
-mkdir -p ./mental/mind-programming/looking-for-cues
-mkdir -p ./mental/mind-programming/feeling
-mkdir -p ./mental/mind-programming/visualizing-inside
-mkdir -p ./mental/mind-programming/visualizing-outside
+mkdir -p ./mental/focusing/ # dedicated space, taking care of distractions
 
-mkdir -p ./mental/positivity/remembering-past-success
+mkdir -p ./mental/mind-programming/
+touch ./mental/mind-programming/looking-for-cues
+touch ./mental/mind-programming/feeling
+touch ./mental/mind-programming/visualizing-inside
+touch ./mental/mind-programming/visualizing-outside
+
+mkdir -p ./mental/positivity/
+touch ./mental/positivity/remembering-past-success
 
 mkdir -p ./mental/self-concept
 
@@ -59,106 +61,139 @@ mkdir -p ./mental/willpower/
 touch ./mental/willpower/reward-yourself
 
 # social
-mkdir -p ./social/behavior/assertiveness # while being nice
-mkdir -p ./social/behavior/gestures
-mkdir -p ./social/behavior/posture
-mkdir -p ./social/conversation/ending
-mkdir -p ./social/conversation/intention
-mkdir -p ./social/conversation/listening
-mkdir -p ./social/conversation/readying-topics
-mkdir -p ./social/conversation/small-talking
+mkdir -p ./social/behavior/
+touch ./social/behavior/assertiveness # while being nice
+touch ./social/behavior/gestures
+touch ./social/behavior/posture
+
+mkdir -p ./social/conversation/
+touch ./social/conversation/ending
+touch ./social/conversation/intention
+touch ./social/conversation/listening
+touch ./social/conversation/readying-topics
+touch ./social/conversation/small-talking
+
 mkdir -p ./social/empathy
+
 mkdir -p ./social/entertaining # telling a joke, a story, singing, dancing
+
 mkdir -p ./social/introducing
+
 mkdir -p ./social/planning # risks, problems, inform, alternatives, goal-setting
+
 mkdir -p ./social/resting # booking time, 
+
 mkdir -p ./social/seducing # 
+
 mkdir -p ./social/speaking-up # expressing one's inner state, not necessarily in a face-to-face exchange
 
 # climbing
-mkdir -p ./technical/climbing/footing
+mkdir -p ./technical/climbing/
+touch ./technical/climbing/footing
 
 # yoga
-mkdir -p ./technical/yoga/hatha
-mkdir -p ./technical/yoga/vinyasa
-mkdir -p ./technical/yoga/yin
+mkdir -p ./technical/yoga/
+touch ./technical/yoga/hatha
+touch ./technical/yoga/vinyasa
+touch ./technical/yoga/yin
 
 # maths
-mkdir -p ./technical/maths/differential-equations
-mkdir -p ./technical/maths/linear-algebra
-mkdir -p ./technical/maths/modeling/interpolation
-mkdir -p ./technical/maths/modeling/regression
-mkdir -p ./technical/maths/statistics
-mkdir -p ./technical/maths/trigonometrics
+mkdir -p ./technical/maths/modeling/
+touch ./technical/maths/differential-equations
+touch ./technical/maths/linear-algebra
+touch ./technical/maths/modeling/interpolation
+touch ./technical/maths/modeling/regression
+touch ./technical/maths/statistics
+touch ./technical/maths/trigonometrics
 
 # physics
-mkdir -p ./technical/physics/electronics/
-mkdir -p ./technical/physics/materials/
-mkdir -p ./technical/physics/mechanics/solid/
-mkdir -p ./technical/physics/mechanics/fluids/
-mkdir -p ./technical/physics/quantic/
-mkdir -p ./technical/physics/thermodynamics/
+mkdir -p ./technical/physics/
+touch ./technical/physics/electronics
+touch ./technical/physics/materials
+touch ./technical/physics/solid-mechanics
+touch ./technical/physics/fluid-mechanics
+touch ./technical/physics/quantic
+touch ./technical/physics/thermodynamics
 
 # chemistry
 mkdir -p ./technical/chemistry/
 
 # data processing
-mkdir -p ./technical/computing/data-processing/image/
-mkdir -p ./technical/computing/data-processing/signal/
-mkdir -p ./technical/computing/data-processing/video/
+mkdir -p ./technical/computing/data-processing/
+touch ./technical/computing/data-processing/image
+touch ./technical/computing/data-processing/signal
+touch ./technical/computing/data-processing/video
 
 # computing operations
-mkdir -p ./technical/computing/operations/publishing/
-mkdir -p ./technical/computing/operations/testing/
-mkdir -p ./technical/computing/operations/versioning/
+mkdir -p ./technical/computing/operations/
+touch ./technical/computing/operations/publishing
+touch ./technical/computing/operations/testing
+touch ./technical/computing/operations/versioning
 
 # software-engineering
-mkdir -p ./technical/computing/languages/concurrent/
-mkdir -p ./technical/computing/languages/data-driven/
-mkdir -p ./technical/computing/languages/declarative/
-mkdir -p ./technical/computing/languages/functional/
-mkdir -p ./technical/computing/languages/object-oriented/
-mkdir -p ./technical/computing/languages/quantum/
-mkdir -p ./technical/computing/languages/scientific/
-mkdir -p ./technical/computing/languages/scripting/
-mkdir -p ./technical/computing/software-engineering/
+mkdir -p ./technical/computing/languages/
+touch ./technical/computing/languages/concurrent
+touch ./technical/computing/languages/data-driven
+touch ./technical/computing/languages/declarative
+touch ./technical/computing/languages/functional
+touch ./technical/computing/languages/object-oriented
+touch ./technical/computing/languages/quantum
+touch ./technical/computing/languages/scientific
+touch ./technical/computing/languages/scripting
+touch ./technical/computing/software-engineering
 
 # machine learning
-mkdir -p ./technical/computing/machine-learning/k-means
-mkdir -p ./technical/computing/machine-learning/tensorflow
+mkdir -p ./technical/computing/machine-learning/
+touch ./technical/computing/machine-learning/k-means
+touch ./technical/computing/machine-learning/tensorflow
 
 # cyber-security
-mkdir -p ./technical/computing/cyber-security/blue/cryptography
-mkdir -p ./technical/computing/cyber-security/blue/endpoint/authentication
-mkdir -p ./technical/computing/cyber-security/blue/endpoint/configuration
-mkdir -p ./technical/computing/cyber-security/blue/endpoint/rights
-mkdir -p ./technical/computing/cyber-security/blue/intelligence/threat-cataloging
-mkdir -p ./technical/computing/cyber-security/blue/network/firewall
-mkdir -p ./technical/computing/cyber-security/blue/network/monitoring
-mkdir -p ./technical/computing/cyber-security/blue/network/scanning
-mkdir -p ./technical/computing/cyber-security/blue/social/anti-spam
+mkdir -p ./technical/computing/cyber-security/blue/endpoint/
+mkdir -p ./technical/computing/cyber-security/blue/intelligence/
+mkdir -p ./technical/computing/cyber-security/blue/network/
+mkdir -p ./technical/computing/cyber-security/blue/social-engineering/
+touch ./technical/computing/cyber-security/blue/cryptography
+touch ./technical/computing/cyber-security/blue/endpoint/authentication
+touch ./technical/computing/cyber-security/blue/endpoint/configuration
+touch ./technical/computing/cyber-security/blue/endpoint/rights
+touch ./technical/computing/cyber-security/blue/intelligence/threat-cataloging
+touch ./technical/computing/cyber-security/blue/network/firewall
+touch ./technical/computing/cyber-security/blue/network/monitoring
+touch ./technical/computing/cyber-security/blue/network/scanning
+touch ./technical/computing/cyber-security/blue/social-engineering/anti-spam
+touch ./technical/computing/cyber-security/blue/social-engineering/training
 
 # pentesting
-mkdir -p ./technical/computing/cyber-security/red/cryptography/cracking # bruteforce, hash
-mkdir -p ./technical/computing/cyber-security/red/exfiltration/
-mkdir -p ./technical/computing/cyber-security/red/hardware/keylogging
-mkdir -p ./technical/computing/cyber-security/red/hardware/recording
-mkdir -p ./technical/computing/cyber-security/red/intelligence/osint
-mkdir -p ./technical/computing/cyber-security/red/intelligence/pattern-identification # machine learning
-mkdir -p ./technical/computing/cyber-security/red/malware/reverse-engineering
-mkdir -p ./technical/computing/cyber-security/red/malware/virus
-mkdir -p ./technical/computing/cyber-security/red/mitm/fake-ap
-mkdir -p ./technical/computing/cyber-security/red/mitm/fake-dns
-mkdir -p ./technical/computing/cyber-security/red/traffic/replay # and editing
-mkdir -p ./technical/computing/cyber-security/red/traffic/sniffing # dump
-mkdir -p ./technical/computing/cyber-security/red/vulnerability-scanning/network
-mkdir -p ./technical/computing/cyber-security/red/side-channels/electromagnetic-analysis
-mkdir -p ./technical/computing/cyber-security/red/side-channels/sound-analysis
-mkdir -p ./technical/computing/cyber-security/red/social-engineering/phishing
+mkdir -p ./technical/computing/cyber-security/red/hardware/
+mkdir -p ./technical/computing/cyber-security/red/intelligence/
+mkdir -p ./technical/computing/cyber-security/red/malware/
+mkdir -p ./technical/computing/cyber-security/red/mitm/
+mkdir -p ./technical/computing/cyber-security/red/side-channels/
+mkdir -p ./technical/computing/cyber-security/red/social-engineering/
+mkdir -p ./technical/computing/cyber-security/red/traffic/
+mkdir -p ./technical/computing/cyber-security/red/vulnerability-scanning/
+touch ./technical/computing/cyber-security/red/cryptography
+touch ./technical/computing/cyber-security/red/exfiltration
+touch ./technical/computing/cyber-security/red/hardware/keylogging
+touch ./technical/computing/cyber-security/red/hardware/recording
+touch ./technical/computing/cyber-security/red/intelligence/osint
+touch ./technical/computing/cyber-security/red/intelligence/pattern-identification # machine learning
+touch ./technical/computing/cyber-security/red/malware/reverse-engineering
+touch ./technical/computing/cyber-security/red/malware/virus
+touch ./technical/computing/cyber-security/red/mitm/fake-ap
+touch ./technical/computing/cyber-security/red/mitm/fake-dns
+touch ./technical/computing/cyber-security/red/side-channels/electromagnetic-analysis
+touch ./technical/computing/cyber-security/red/side-channels/sound-analysis
+touch ./technical/computing/cyber-security/red/social-engineering/phishing
+touch ./technical/computing/cyber-security/red/traffic/replay # and editing
+touch ./technical/computing/cyber-security/red/traffic/sniffing # dump
+touch ./technical/computing/cyber-security/red/vulnerability-scanning/network
 
 # risk-management
-mkdir -p ./technical/risk-management/forensic
-mkdir -p ./technical/risk-management/monitoring # reacting in time => vs fire, bruteforce, etc
-mkdir -p ./technical/risk-management/pentesting
-mkdir -p ./technical/risk-management/scanning
-mkdir -p ./technical/risk-management/trapping
+mkdir -p ./technical/risk-management/
+touch ./technical/risk-management/assessing # from stats, history, physics, etc
+touch ./technical/risk-management/forensic
+touch ./technical/risk-management/monitoring # reacting in time => vs fire, bruteforce, etc
+touch ./technical/risk-management/pentesting
+touch ./technical/risk-management/scanning
+touch ./technical/risk-management/trigerring
