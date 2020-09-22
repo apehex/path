@@ -12,7 +12,7 @@
 
 ## Project Milestones
 
-- [ ] Release Version 0.1.0 (Pre-Alpha)
+- [x] Release Version 0.1.0 (Pre-Alpha)
 - [ ] Release Version 0.x.0 (Alpha)
 - [ ] Release Version 0.x.0 (Beta)
 - [ ] Release Version 1.0.0 (Stable)
