@@ -1,0 +1,12 @@
+## Who?
+
+Extrémistes ?
+Politiques ?
+Mulltinationales ?
+
+## Why?
+
+## How? Far?
+
+As a member? Friend? Psy?
+Date? Sex? Marry? Friend?
