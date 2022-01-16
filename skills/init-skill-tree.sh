@@ -81,7 +81,7 @@ mkdir -p ./social/introducing
 
 mkdir -p ./social/planning # risks, problems, inform, alternatives, goal-setting
 
-mkdir -p ./social/resting # booking time, 
+mkdir -p ./social/resting # booking time, alternating activities & localized rest
 
 mkdir -p ./social/seducing # 
 
@@ -131,15 +131,15 @@ mkdir -p ./technical/computing/operations/
 > ./technical/computing/operations/versioning
 
 # software-engineering
-mkdir -p ./technical/computing/languages/
-> ./technical/computing/languages/concurrent
-> ./technical/computing/languages/data-driven
-> ./technical/computing/languages/declarative
-> ./technical/computing/languages/functional
-> ./technical/computing/languages/object-oriented
-> ./technical/computing/languages/quantum
-> ./technical/computing/languages/scientific
-> ./technical/computing/languages/scripting
+mkdir -p ./technical/computing/programming/
+> ./technical/computing/programming/concurrent
+> ./technical/computing/programming/data-driven
+> ./technical/computing/programming/declarative
+> ./technical/computing/programming/functional
+> ./technical/computing/programming/object-oriented
+> ./technical/computing/programming/quantum
+> ./technical/computing/programming/scientific
+> ./technical/computing/programming/scripting
 > ./technical/computing/software-engineering
 
 # machine learning
